@@ -11,12 +11,13 @@ Olá, Bem-vindo!
 
 <p Align="justify"> 
 
--> Sou do Rio Grande do Sul, tenho 25 anos e estudo Ciência da Computação na Universidade Luterana do Brasil. Estou me desenvolvendo na área de programação para me tornar um profissional Full Stack.
+:ng_man: Sou do Rio Grande do Sul, tenho 25 anos e estudo Ciência da Computação na Universidade Luterana do Brasil. Estou me desenvolvendo na área de programação para me tornar um profissional Full Stack. 
 
+:hourglass_flowing_sand: Gosto de acompanhar projetos, entender sua parte lógica e solucionar problemas. 
 
  </p> 
 
-## Ferramentas e Tecnologias
+## Ferramentas e Tecnologias :1st_place_medal:
 
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40"/></code>
@@ -28,11 +29,11 @@ Olá, Bem-vindo!
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" /></code>
 
 <p Align="justify"> 
--> Em um período de 4 anos venho adquirindo experiência acadêmica nas linguagens Java, JavaScript, HTML5, CSS, C++ e SQL. Utilizo framework React, git para versionamento e o github como repositório. 
+:nerd_face: Em um período de 4 anos venho adquirindo experiência acadêmica nas linguagens Java, JavaScript, HTML5, CSS, C++ e SQL. Utilizo framework React, git para versionamento e o github como repositório. 
 
--> Em meu repositório do GitHub você poderá ver projetos acadêmico, cursos e pessoal. 
+ :pushpin: Aqui em <a href ="https://github.com/ViniciusBandeira97?tab=repositories">repositório</a> você poderá ver meus projetos acadêmicos, cursos e pessoal. 
 
--> Fique a vontade para entrar em contato comigo através de minhas redes sociais. Vou lhe respondo o mais breve possível.
+:mailbox_with_mail: Fique a vontade para entrar em contato comigo através de minhas redes sociais. Vou lhe responder o mais breve possível.
  </p> 
  <div>
 <a href = "mailto:viniciusbbandeira@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
