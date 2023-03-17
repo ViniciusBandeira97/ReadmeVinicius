@@ -13,7 +13,7 @@ Olá, Bem-vindo!
 
 :ng_man: Sou do Rio Grande do Sul, tenho 25 anos e estudo Ciência da Computação na Universidade Luterana do Brasil. Estou me desenvolvendo na área de programação para me tornar um profissional Full Stack. 
 
-:hourglass_flowing_sand: Gosto de acompanhar projetos, entender sua parte lógica e solucionar problemas. 
+:hourglass_flowing_sand: Gosto de solucionar problemas, acompanhar projetos e entender sua parte lógica. 
 
  </p> 
 
